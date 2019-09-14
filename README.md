@@ -7,8 +7,8 @@ LINK</br>
 
 ## Images
 ### System
-![alt text](System.jpg "Title")
+![alt text](System.jpeg "Title")
 ### Circuit
-![alt text](Circuit.jpg "Title")
+![alt text](Circuit.jpeg "Title")
 ### Android App
 ![alt text](AndroidApp.PNG "Title")
