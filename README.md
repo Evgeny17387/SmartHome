@@ -6,9 +6,9 @@ SolidWoks files for the 3D case can be found in the link below:</br>
 LINK</br>
 
 ## Images
-### Light Off
-![alt text](off.jpg "Title")
-### Light On
-![alt text](on.jpg "Title")
+### System
+![alt text](System.jpg "Title")
+### Circuit
+![alt text](Circuit.jpg "Title")
 ### Android App
 ![alt text](AndroidApp.PNG "Title")

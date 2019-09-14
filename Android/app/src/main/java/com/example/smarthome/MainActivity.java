@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        BASE_URL = "http://" + "192.168.1.27" + ":" + String.valueOf(getResources().getInteger(R.integer.Port));
+        BASE_URL = "http://" + "192.168.1.26" + ":" + String.valueOf(getResources().getInteger(R.integer.Port));
 
         Button on = (Button) findViewById(R.id.on);
         Button off = (Button) findViewById(R.id.off);
