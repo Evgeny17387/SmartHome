@@ -86,12 +86,12 @@ void loop()
 				if (buf.endsWith("/on"))
 				{
 					Serial.println("GPIO 2 on");
-					digitalWrite(gpio2, HIGH);
+					digitalWrite(gpio2, LOW);
 				}
 				else if (buf.endsWith("/off"))
 				{
 					Serial.println("GPIO 2 off");
-					digitalWrite(gpio2, LOW);
+					digitalWrite(gpio2, HIGH);
 				}
 
 			}
